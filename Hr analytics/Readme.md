@@ -6,4 +6,4 @@ The Aim of the Project is to solve the inconsitency and disoriented HR excel fil
 
 And produce interactable Dashboard using Power BI
 
-![](hr%analytics%dashboard.png)
+![](hr_analytics_dashboard.png)
